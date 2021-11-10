@@ -1,0 +1,64 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "description": "Node js API ",
+  "private": true,
+  "jest": {
+    "testEnvironment": "node",
+    "coveragePathIgnorePatterns": [
+      "/node_modules/"
+    ]
+  },
+  "scripts": {
+    "start": "node ./bin/www",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "async": "^3.2.0",
+    "axios": "^0.21.0",
+    "bcrypt-nodejs": "0.0.3",
+    "bcryptjs": "^2.4.3",
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "cron": "^1.8.2",
+    "crypto-js": "^4.0.0",
+    "debug": "~2.6.9",
+    "express": "^4.16.2",
+    "express-fileupload": "^1.2.0",
+    "express-session": "^1.15.6",
+    "express-useragent": "^1.0.15",
+    "extsprintf": "^1.4.0",
+    "formidable": "^1.2.2",
+    "jade": "^1.11.0",
+    "jwt-simple": "^0.5.1",
+    "kue": "^0.11.6",
+    "lodash": "^4.17.19",
+    "moment": "^2.27.0",
+    "moment-timezone": "^0.5.31",
+    "mongodb-client-encryption": "^1.1.0",
+    "mongoose": "^5.10.2",
+    "morgan": "~1.9.0",
+    "nexmo": "^2.8.0",
+    "nodemailer": "^6.4.11",
+    "opentok-token": "^1.1.1",
+    "passport": "^0.4.0",
+    "passport-custom": "^1.1.1",
+    "passport-jwt": "^4.0.0",
+    "passport-local": "^1.0.0",
+    "passport-local-mongoose": "^4.5.0",
+    "pusher": "^1.5.1",
+    "queue": "^6.0.1",
+    "read-excel-file": "^4.0.7",
+    "request": "^2.88.1",
+    "stripe": "^7.1.0",
+    "winston": "^3.3.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4",
+    "supertest": "^5.0.0"
+  }
+}

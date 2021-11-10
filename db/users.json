@@ -1,0 +1,193 @@
+[{
+  "_id": {
+    "$oid": "5f329ab84201823ad04cae41"
+  },
+  "firstName": "Srinivas",
+  "lastName": "Vuthoori",
+  "fullName": "Srinivas Vuthoori",
+  "gender": "Male",
+  "dateOfBirth": "1967-12-15T08:00:00.000Z",
+  "email": "vuthoorimd@gmail.com",
+  "mobile": "7609726060",
+  "password": "$2a$10$GN0timg3ojsZL2UqEhG8LumiODfI5pqIBgr9LF2sB0w21QjCOyDha",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2020-08-05T17:59:26.820Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-20T02:46:09.703Z"
+  },
+  "__v": 0,
+  "profileImage": "5f329ab84201823ad04cae41.png",
+  "prefix": "Dr",
+  "suffix": "MD",
+  "lastLogin": {
+    "$date": "2021-01-13T20:08:51.202Z"
+  },
+  "forgotPassword": "",
+  "timeZone": "America/Los_Angeles",
+  "lastAttempt": 1
+},{
+  "_id": {
+    "$oid": "5f32a7414201823ad04cae44"
+  },
+  "firstName": "Derrick",
+  "lastName": "Leggett",
+  "fullName": "Derrick Leggett",
+  "gender": "Male",
+  "dateOfBirth": "1990-06-19T17:58:52.000Z",
+  "email": "derrickleggett@yahoo.com",
+  "mobile": "8166992692",
+  "password": "$2a$10$mUds7/SxUREgBfvK6esEH.KKr97481b5unv31YqXOTmgYylFOzJG.",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2020-08-05T17:59:26.820Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-25T01:52:43.662Z"
+  },
+  "__v": 0,
+  "forgotPassword": "",
+  "lastLogin": {
+    "$date": "2020-09-25T01:52:43.662Z"
+  }
+},{
+  "_id": {
+    "$oid": "5f6061ff97c9af3decedcf27"
+  },
+  "firstName": "Joseph",
+  "lastName": "Velan",
+  "fullName": "Joseph Velan",
+  "gender": "Male",
+  "dateOfBirth": "1990-06-19T17:58:52.000Z",
+  "email": "joseph.ba@velaninfo.com",
+  "mobile": "8166992692",
+  "password": "$2a$10$jPNeIPpYqL6EuwjQ7g34HO25pk8v3YDSb.V3nsv/NTEgL50rvuaje",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2020-08-05T17:59:26.820Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-11T16:27:05.905Z"
+  },
+  "__v": 0,
+  "forgotPassword": "$2a$10$ZKMEN3.KIrNy4cluGYCIluEm9AowTp9IIv9bHhyePmvJaPR.DVNQu",
+  "profileImage": "5f6061ff97c9af3decedcf27.png",
+  "prefix": "Dr",
+  "suffix": "MBBS",
+  "lastLogin": {
+    "$date": "2021-01-11T16:27:05.905Z"
+  },
+  "lastAttempt": 0,
+  "timeZone": "Asia/Calcutta"
+},{
+  "_id": {
+    "$oid": "5f63110dba927779144a9e59"
+  },
+  "firstName": "Ravi",
+  "lastName": "Velan",
+  "fullName": "Ravi Velan",
+  "gender": "Male",
+  "dateOfBirth": "1990-06-19T17:58:52.000Z",
+  "email": "ravi@velaninfo.com",
+  "mobile": "8166992692",
+  "password": "$2a$10$EWYJKiE92J7XWHO9hi5L9eNu1vuHLKEeEjd4dmB8mYG30gBo5.Qmu",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2020-08-05T17:59:26.820Z"
+  },
+  "updatedAt": {
+    "$date": "2021-02-18T14:22:34.126Z"
+  },
+  "__v": 0,
+  "forgotPassword": "$2a$10$vlpQvcUfzhFclAExgoeLreEWF.Pws7yEuDsOwG6NPBqF98ggfoUEu",
+  "profileImage": "5f63110dba927779144a9e59.png",
+  "prefix": "Dr",
+  "suffix": "MBBS",
+  "lastLogin": {
+    "$date": "2021-02-18T14:22:34.126Z"
+  },
+  "lastAttempt": 0,
+  "timeZone": "Asia/Calcutta"
+},{
+  "_id": {
+    "$oid": "5f6ce77d7b4a662420cafb7b"
+  },
+  "firstName": "Derrick",
+  "lastName": "Leggett No Email",
+  "fullName": "Derrick Leddgett",
+  "gender": "Male",
+  "dateOfBirth": "1990-06-19T17:58:52.000Z",
+  "email": "derrick_leggett@hotmail.com",
+  "mobile": "8166992692",
+  "password": "$2a$10$b2wE.nJpnMBGPE5xx6vxLOYxtbFA4tM6Hh.6Nj0yxsRGgtvkQ5rfi",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2020-08-05T17:59:26.820Z"
+  },
+  "updatedAt": {
+    "$date": "2020-09-24T18:44:37.876Z"
+  },
+  "__v": 0,
+  "forgotPassword": "",
+  "lastLogin": {
+    "$date": "2020-09-24T18:44:37.875Z"
+  },
+  "prefix": "",
+  "suffix": "Jr"
+},{
+  "_id": {
+    "$oid": "5f6ce8ac7b4a662420cafb7c"
+  },
+  "firstName": "Derrick",
+  "lastName": "Leggett Gmail",
+  "fullName": "Derrick Leddgett",
+  "gender": "Male",
+  "dateOfBirth": "1990-06-19T17:58:52.000Z",
+  "email": "derrickleggett@gmail.com",
+  "mobile": "",
+  "password": "$2a$10$Li/wbhA74I5Ub7etBZu9BeOzgWBnKhQmtCZfiunEsFbXPMX2g/lfG",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2020-08-05T17:59:26.820Z"
+  },
+  "updatedAt": {
+    "$date": "2020-11-29T05:03:24.897Z"
+  },
+  "__v": 0,
+  "forgotPassword": "",
+  "lastLogin": {
+    "$date": "2020-11-29T05:03:24.896Z"
+  },
+  "prefix": "",
+  "suffix": "Sr"
+},{
+  "_id": {
+    "$oid": "5f888609ba927779144a9e5c"
+  },
+  "firstName": "Manoj",
+  "lastName": "Velan",
+  "fullName": "Manoj Velan",
+  "gender": "Male",
+  "dateOfBirth": "1990-06-19T17:58:52.000Z",
+  "email": "manoj.testing@velaninfo.com",
+  "mobile": "9876543222",
+  "password": "$2a$10$k8bJ3UIo0PTkNZ6OJNyGgOJaWMpotYk9KH1gEANvR/ni7andpyA.a",
+  "isDeleted": false,
+  "createdAt": {
+    "$date": "2020-08-05T17:59:26.820Z"
+  },
+  "updatedAt": {
+    "$date": "2021-01-11T16:22:27.405Z"
+  },
+  "__v": 0,
+  "forgotPassword": "",
+  "profileImage": "5f888609ba927779144a9e5c.png",
+  "prefix": "Dr",
+  "suffix": "Mbbs",
+  "lastLogin": {
+    "$date": "2021-01-11T16:22:27.404Z"
+  },
+  "lastAttempt": 0,
+  "timeZone": "Asia/Calcutta"
+}]

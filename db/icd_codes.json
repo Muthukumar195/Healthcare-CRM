@@ -1,0 +1,1306 @@
+[{
+  "_id": {
+    "$oid": "5f58ece02046b040e410ce5b"
+  },
+  "code": "I10 Essential (primary) hypertension"
+},{
+  "_id": {
+    "$oid": "5f58ed122046b040e410ce5c"
+  },
+  "code": "E78.0 Pure hypercholesterolemia"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce5d"
+  },
+  "code": "I10 Essential (primary) hypertension"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce5e"
+  },
+  "code": "E78.0 Pure hypercholesterolemia"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce5f"
+  },
+  "code": "E78.1 Pure hyperglyceridemia"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce60"
+  },
+  "code": "E78.2 Mixed hyperlipidemia"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce61"
+  },
+  "code": "E78.3 Hyperchylomicronemia"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce62"
+  },
+  "code": "E78.4 Other hyperlipidemia"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce63"
+  },
+  "code": "E78.5 Hyperlipidemia"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce64"
+  },
+  "code": "E78.6 Lipoprotein deficiency"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce65"
+  },
+  "code": "M54.9 Dorsalgia, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce66"
+  },
+  "code": "M54.89 Other dorsalgia"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce67"
+  },
+  "code": "M54.6 Pain in thoracic spine"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce68"
+  },
+  "code": "M54.5 Low back pain"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce69"
+  },
+  "code": "M53.3 Sacrococcygeal disorders, not elsewhere classified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce6a"
+  },
+  "code": "R10.9 Unspecified abdominal pain"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce6b"
+  },
+  "code": "R10.10 Upper abdominal pain, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce6c"
+  },
+  "code": "R10.11 Right upper quadrant pain"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce6d"
+  },
+  "code": "R10.12 Left upper quadrant pain"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce6e"
+  },
+  "code": "R10.13 Epigastric pain"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce6f"
+  },
+  "code": "R10.2 Pelvic and perineal pain"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce70"
+  },
+  "code": "R10.30 Lower abdominal pain, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce71"
+  },
+  "code": "R10.31 Right lower quadrant pain"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce72"
+  },
+  "code": "R10.32 Left lower quadrant pain"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce73"
+  },
+  "code": "R10.33 Periumbilical pain"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce74"
+  },
+  "code": "R10.84 Generalized abdominal pain"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce75"
+  },
+  "code": "R05 Cough"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce76"
+  },
+  "code": "M54.9 Dorsalgia, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce77"
+  },
+  "code": "M54.89 Other dorsalgia"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce78"
+  },
+  "code": "M54.6 Pain in thoracic spine"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce79"
+  },
+  "code": "M54.5 Low back pain"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce7a"
+  },
+  "code": "M53.3 Sacrococcygeal disorders, not elsewhere classified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce7b"
+  },
+  "code": "G89.4 Chronic pain syndrome"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce7c"
+  },
+  "code": "Z00.00 Encounter for general adult medical examination without abnormal findings"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce7d"
+  },
+  "code": "Z00.01 Encounter for general adult medical examination with abnormal findings"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce7e"
+  },
+  "code": "Z23 Encounter for immunization"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce7f"
+  },
+  "code": "J44.9 Chronic obstructive pulmonary disease, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce80"
+  },
+  "code": "J44.0 Chronic obstructive pulmonary disease with acute lower respiratory infection"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce81"
+  },
+  "code": "J44.1 Chronic obstructive pulmonary disease with (acute) exacerbation"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce82"
+  },
+  "code": "Z01.818 Encounter for other preprocedural examination"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce83"
+  },
+  "code": "N39.0 Urinary tract infection"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce84"
+  },
+  "code": "N30.00 Acute cystitis without hematuria"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce85"
+  },
+  "code": "N30.01 Acute cystitis with hematuria"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce86"
+  },
+  "code": "N30.10 Interstitial cystitis chronic without hematuria"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce87"
+  },
+  "code": "N30.11 Interstitial cystitis chronic with hematuria"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce88"
+  },
+  "code": "N30.20 Other chronic cystitis without hematuria"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce89"
+  },
+  "code": "N30.21 Other chronic cystitis with hematuria"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce8a"
+  },
+  "code": "N30.30 Trigonitis without hematuria"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce8b"
+  },
+  "code": "N30.31 Trigonitis with hematuria"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce8c"
+  },
+  "code": "N30.40 Irradiation cystitis without hematuria"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce8d"
+  },
+  "code": "N30.41 Irradiation cystitis with hematuria"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce8e"
+  },
+  "code": "N30.80 Other cystitis without hematuria"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce8f"
+  },
+  "code": "N30.81 Other cystitis with hematuria"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce90"
+  },
+  "code": "N30.90 Cystitis, unspecified without hematuria"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce91"
+  },
+  "code": "N30.91 Cystitis, unspecified with hematuria"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce92"
+  },
+  "code": "N15.9 Renal tubulo-interstitial disease, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce93"
+  },
+  "code": "N34.1 Nonspecific urethritis"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce94"
+  },
+  "code": "N34.2 Other urethritis"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce95"
+  },
+  "code": "I48.0 Paroxysmal atrial fibrillation"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce96"
+  },
+  "code": "I48.1 Persistent atrial fibrillation"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce97"
+  },
+  "code": "I48.2 Chronic atrial fibrillation"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce98"
+  },
+  "code": "I48.91 Unspecified atrial fibrillation"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce99"
+  },
+  "code": "F41.9 Anxiety disorder, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce9a"
+  },
+  "code": "F41.1 Generalized anxiety disorder"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce9b"
+  },
+  "code": "F41.8 Other specified anxiety disorders"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce9c"
+  },
+  "code": "R07.9 Chest pain, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce9d"
+  },
+  "code": "R07.1 Chest pain on breathing"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce9e"
+  },
+  "code": "R07.2 Precordial pain"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ce9f"
+  },
+  "code": "R07.81 Pleurodynia"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cea0"
+  },
+  "code": "R07.89 Other chest pain"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cea1"
+  },
+  "code": "F32.9 Major depressive disorder, single episode, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cea2"
+  },
+  "code": "F32.0 Major depressive disorder, single episode, mild"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cea3"
+  },
+  "code": "F32.1 Major depressive disorder, single episode, moderate"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cea4"
+  },
+  "code": "F32.2 Major depressive disorder, single episode, severe without psychotic features"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cea5"
+  },
+  "code": "F32.3 Major depressive disorder, single episode, severe with psychotic features"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cea6"
+  },
+  "code": "F32.5 Major depressive disorder, single episode, in full remission"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cea7"
+  },
+  "code": "F32.8 Other depressive episodes"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cea8"
+  },
+  "code": "R53.0 Neoplasm (malignant) related fatigue"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cea9"
+  },
+  "code": "R53.1 Weakness"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ceaa"
+  },
+  "code": "R53.81 Other malaise"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ceab"
+  },
+  "code": "R53.83 Other fatigue"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ceac"
+  },
+  "code": "G93.3 Postviral fatigue syndrome"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cead"
+  },
+  "code": "K21.9 Gastro-esophageal reflux disease without esophagitis"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ceae"
+  },
+  "code": "K21.0 Gastro-esophageal reflux disease with esophagitis"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ceaf"
+  },
+  "code": "J06.9 Acute upper respiratory infection, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ceb0"
+  },
+  "code": "J39.8 Other specified diseases of upper respiratory tract"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ceb1"
+  },
+  "code": "J18.9 Pneumonia, unspecified organism"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ceb2"
+  },
+  "code": "M79.609 Pain in unspecified limb"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ceb3"
+  },
+  "code": "M79.601 Pain in right arm"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ceb4"
+  },
+  "code": "M79.602 Pain in left arm"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ceb5"
+  },
+  "code": "M79.603 Pain in arm, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ceb6"
+  },
+  "code": "M79.604 Pain in right leg"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ceb7"
+  },
+  "code": "M79.605 Pain in left leg"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ceb8"
+  },
+  "code": "M79.606 Pain in leg, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ceb9"
+  },
+  "code": "M79.621 Pain in right upper arm"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ceba"
+  },
+  "code": "M79.622 Pain in left upper arm"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cebb"
+  },
+  "code": "M79.629 Pain in unspecified upper arm"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cebc"
+  },
+  "code": "M79.631 Pain in right forearm"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cebd"
+  },
+  "code": "M79.632 Pain in left forearm"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cebe"
+  },
+  "code": "M79.639 Pain in unspecified forearm"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cebf"
+  },
+  "code": "M79.641 Pain in right hand"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cec0"
+  },
+  "code": "M79.642 Pain in left hand"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cec1"
+  },
+  "code": "M79.643 Pain in unspecified hand"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cec2"
+  },
+  "code": "M79.644 Pain in right finger(s)"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cec3"
+  },
+  "code": "M79.645 Pain in left finger(s)"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cec4"
+  },
+  "code": "M79.646 Pain in unspecified finger(s)"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cec5"
+  },
+  "code": "M79.651 Pain in right thigh"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cec6"
+  },
+  "code": "M79.652 Pain in left thigh"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cec7"
+  },
+  "code": "M79.659 Pain in unspecified thigh"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cec8"
+  },
+  "code": "M79.661 Pain in right lower leg"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cec9"
+  },
+  "code": "M79.662 Pain in left lower leg"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ceca"
+  },
+  "code": "M79.669 Pain in unspecified lower leg"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cecb"
+  },
+  "code": "M79.671 Pain in right foot"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cecc"
+  },
+  "code": "M79.672 Pain in left foot"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cecd"
+  },
+  "code": "M79.673 Pain in unspecified foot"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cece"
+  },
+  "code": "M79.674 Pain in right toe(s)"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cecf"
+  },
+  "code": "M79.675 Pain in left toe(s)"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ced0"
+  },
+  "code": "M79.676 Pain in unspecified toe(s)"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ced1"
+  },
+  "code": "J20.9 Acute bronchitis, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ced2"
+  },
+  "code": "J20.0 Acute bronchitis due to Mycoplasma pneumoniae"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ced3"
+  },
+  "code": "J20.1 Acute bronchitis due to Hemophilus influenzae"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ced4"
+  },
+  "code": "J20.2 Acute bronchitis due to streptococcus"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ced5"
+  },
+  "code": "J20.3 Acute bronchitis due to coxsackievirus"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ced6"
+  },
+  "code": "J20.4 Acute bronchitis due to parainfluenza virus"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ced7"
+  },
+  "code": "J20.5 Acute bronchitis due to respiratory syncytial virus"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ced8"
+  },
+  "code": "J20.6 Acute bronchitis due to rhinovirus"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ced9"
+  },
+  "code": "J20.7 Acute bronchitis due to echovirus"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ceda"
+  },
+  "code": "J20.8 Acute bronchitis due to other specified organisms"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cedb"
+  },
+  "code": "M25.561 Pain in right knee"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cedc"
+  },
+  "code": "M25.562 Pain in left knee"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cedd"
+  },
+  "code": "M25.569 Pain in unspecified knee"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cede"
+  },
+  "code": "I50.9 Heart failure, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cedf"
+  },
+  "code": "I50.1 Left ventricular failure"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cee0"
+  },
+  "code": "I50.21 Acute systolic (congestive) heart failure"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cee1"
+  },
+  "code": "I50.22 Chronic systolic (congestive) heart failure"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cee2"
+  },
+  "code": "I50.23 Acute on chronic systolic (congestive) heart failure"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cee3"
+  },
+  "code": "I50.30 Unspecified diastolic (congestive) heart failure "
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cee4"
+  },
+  "code": "I50.31 Acute diastolic (congestive) heart failure"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cee5"
+  },
+  "code": "I50.32 Chronic diastolic (congestive) heart failure"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cee6"
+  },
+  "code": "I50.33 Acute on chronic diastolic (congestive) heart failure"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cee7"
+  },
+  "code": "I50.40 Unspecified combined systolic (congestive) and diastolic (congestive) heart failure"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cee8"
+  },
+  "code": "I50.41 Acute combined systolic (congestive) and diastolic (congestive) heart failure"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cee9"
+  },
+  "code": "I50.42 Chronic combined systolic (congestive) and diastolic (congestive) heart failure"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ceea"
+  },
+  "code": "I50.43 Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ceeb"
+  },
+  "code": "H61.21 Impacted cerumen, right ear"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ceec"
+  },
+  "code": "H61.22 Impacted cerumen, left ear"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ceed"
+  },
+  "code": "H61.23 Impacted cerumen, bilateral"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ceee"
+  },
+  "code": "H61.20 Impacted cerumen, unspecified ear"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ceef"
+  },
+  "code": "J02.8 Acute pharyngitis due to other specified organisms"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cef0"
+  },
+  "code": "J02.0 Streptococcal pharyngitis"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cef1"
+  },
+  "code": "J02.9 Acute pharyngitis, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cef2"
+  },
+  "code": "R42 Dizziness and giddiness"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cef3"
+  },
+  "code": "M54.2 Cervicalgia"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cef4"
+  },
+  "code": "J01.90 Acute sinusitis, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cef5"
+  },
+  "code": "J01.00 Acute maxillary sinusitis, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cef6"
+  },
+  "code": "J01.10 Acute frontal sinusitis, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cef7"
+  },
+  "code": "J01.20 Acute ethmoidal sinusitis, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cef8"
+  },
+  "code": "J01.30 Acute sphenoidal sinusitis, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cef9"
+  },
+  "code": "J01.40 Acute pansinusitis, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cefa"
+  },
+  "code": "J01.80 Other acute sinusitis"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cefb"
+  },
+  "code": "D64.9 Anemia, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cefc"
+  },
+  "code": "D64.0 Hereditary sideroblastic anemia"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cefd"
+  },
+  "code": "D64.1 Secondary sideroblastic anemia due to disease"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cefe"
+  },
+  "code": "D64.2 Secondary sideroblastic anemia due to drugs and toxins"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410ceff"
+  },
+  "code": "D64.3 Other sideroblastic anemias (anemia is plural in code descriptor)"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf00"
+  },
+  "code": "D64.81 Anemia due to antineoplastic chemotherapy"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf01"
+  },
+  "code": "D64.89 Other specified anemias"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf02"
+  },
+  "code": "R21 Rash and other nonspecific skin eruption"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf03"
+  },
+  "code": "R19.7 Diarrhea, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf04"
+  },
+  "code": "R60.0 Localized edema"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf05"
+  },
+  "code": "R60.1 Generalized edema"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf06"
+  },
+  "code": "R60.9 Edema, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf07"
+  },
+  "code": "J30.9 Allergic rhinitis, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf08"
+  },
+  "code": "J30.0 Vasomotor rhinitis"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf09"
+  },
+  "code": "J30.1 Allergic rhinitis due to pollen"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf0a"
+  },
+  "code": "J30.2 Other seasonal allergic rhinitis"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf0b"
+  },
+  "code": "J30.5 Allergic rhinitis due to food"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf0c"
+  },
+  "code": "J30.81 Allergic rhinitis due to animal (cat) (dog) hair and dander"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf0d"
+  },
+  "code": "J30.89 Other allergic rhinitis"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf0e"
+  },
+  "code": "J45.909 Unspecified asthma, uncomplicated"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf0f"
+  },
+  "code": "J45.20 Mild intermittent asthma, uncomplicated"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf10"
+  },
+  "code": "J45.21 Mild intermittent asthma with (acute) exacerbation"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf11"
+  },
+  "code": "J45.22 Mild intermittent asthma with status asthmaticus"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf12"
+  },
+  "code": "J45.30 Mild persistent asthma, uncomplicated"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf13"
+  },
+  "code": "J45.31 Mild persistent asthma with (acute) exacerbation"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf14"
+  },
+  "code": "J45.32 Mild persistent asthma with status asthmaticus"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf15"
+  },
+  "code": "J45.40 Moderate persistent asthma, uncomplicated"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf16"
+  },
+  "code": "J45.41 Moderate persistent asthma with (acute) exacerbation"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf17"
+  },
+  "code": "J45.42 Moderate persistent asthma with status asthmaticus"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf18"
+  },
+  "code": "J45.50 Severe persistent asthma, uncomplicated"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf19"
+  },
+  "code": "M25.511 Pain in right shoulder"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf1a"
+  },
+  "code": "M25.512 Pain in left shoulder"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf1b"
+  },
+  "code": "M25.519 Pain in unspecified shoulder"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf1c"
+  },
+  "code": "J45.51 Severe persistent asthma with (acute) exacerbation"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf1d"
+  },
+  "code": "J45.52 Severe persistent asthma with status asthmaticus"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf1e"
+  },
+  "code": "J45.901 Unspecified asthma with (acute) exacerbation"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf1f"
+  },
+  "code": "J45.902 Unspecified asthma with status asthmaticus"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf20"
+  },
+  "code": "J45.990 Exercise induced bronchospasm"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf21"
+  },
+  "code": "J45.991 Cough variant asthma"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf22"
+  },
+  "code": "J45.998 Other asthma"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf23"
+  },
+  "code": "E03.9 Hypothyroidism, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf24"
+  },
+  "code": "E03.0 Congenital hypothyroidism with diffuse goiter"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf25"
+  },
+  "code": "E03.1 Congenital hypothyroidism without goiter"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf26"
+  },
+  "code": "E03.2 Hypothyroidism due to medicaments and other exogenous substances"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf27"
+  },
+  "code": "E03.3 Postinfectious hypothyroidism"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf28"
+  },
+  "code": "E03.4 Atrophy of thyroid (acquired)"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf29"
+  },
+  "code": "E03.5 Myxedema coma"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf2a"
+  },
+  "code": "E03.8 Other specified hypothyroidism"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf2b"
+  },
+  "code": "J40 Bronchitis, not specified as acute or chronic"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf2c"
+  },
+  "code": "J20.0 Acute bronchitis due to Mycoplasma pneumoniae"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf2d"
+  },
+  "code": "J20.1 Acute bronchitis due to Hemophilus influenzae"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf2e"
+  },
+  "code": "J20.2 Acute bronchitis due to streptococcus"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf2f"
+  },
+  "code": "J20.3 Acute bronchitis due to coxsackievirus"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf30"
+  },
+  "code": "J20.4 Acute bronchitis due to parainfluenza virus"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf31"
+  },
+  "code": "J20.5 Acute bronchitis due to respiratory syncytial virus"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf32"
+  },
+  "code": "J20.6 Acute bronchitis due to rhinovirus"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf33"
+  },
+  "code": "J20.7 Acute bronchitis due to echovirus"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf34"
+  },
+  "code": "J20.8 Acute bronchitis due to other specified organisms"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf35"
+  },
+  "code": "J20.9 Acute bronchitis, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf36"
+  },
+  "code": "J41.0 Simple chronic bronchitis"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf37"
+  },
+  "code": "J41.1 Mucopurulent chronic bronchitis"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf38"
+  },
+  "code": "J41.8 Mixed simple and mucopurulent chronic bronchitis"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf39"
+  },
+  "code": "J42 Unspecified chronic bronchitis"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf3a"
+  },
+  "code": "R30.0 Dysuria"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf3b"
+  },
+  "code": "R06.02 Shortness of breath"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf3c"
+  },
+  "code": "F43.20 Adjustment disorder, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf3d"
+  },
+  "code": "F43.21 Adjustment disorder with depressed mood"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf3e"
+  },
+  "code": "F43.22 Adjustment disorder with anxiety"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf3f"
+  },
+  "code": "F43.23 Adjustment disorder with mixed anxiety and depressed mood"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf40"
+  },
+  "code": "F43.24 Adjustment disorder with disturbance of conduct"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf41"
+  },
+  "code": "F43.25 Adjustment disorder with mixed disturbance of emotions and conduct"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf42"
+  },
+  "code": "F43.29 Adjustment disorder with other symptoms"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf43"
+  },
+  "code": "J45.901 Unspecified asthma with (acute) exacerbation"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf44"
+  },
+  "code": "J45.902 Unspecified asthma with status asthmaticus"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf45"
+  },
+  "code": "J45.909 Unspecified asthma, uncomplicated"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf46"
+  },
+  "code": "M25.551 Pain in right hip"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf47"
+  },
+  "code": "M25.552 Pain in left hip"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf48"
+  },
+  "code": "M25.559 Pain in unspecified hip"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf49"
+  },
+  "code": "R06.83 Snoring"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf4a"
+  },
+  "code": "R06.00 Dyspnea, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf4b"
+  },
+  "code": "R06.3 Periodic breathing"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf4c"
+  },
+  "code": "R06.4 Hyperventilation"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf4d"
+  },
+  "code": "R06.89 Other abnormalities of breathing"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf4e"
+  },
+  "code": "L25.9 Unspecified contact dermatitis, unspecified nature"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf4f"
+  },
+  "code": "L30.9 Dermatitis, unspecified"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf50"
+  },
+  "code": "L25.0 Unspecified contact dermatitis due to cosmetics"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf51"
+  },
+  "code": "L25.1 Unspecified contact dermatitis due to drugs in contact with skin"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf52"
+  },
+  "code": "L25.2 Unspecified contact dermatitis due to dyes"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf53"
+  },
+  "code": "L25.3 Unspecified contact dermatitis due to other chemical products"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf54"
+  },
+  "code": "L25.4 Unspecified contact dermatitis due to food in contact with skin"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf55"
+  },
+  "code": "L25.5 Unspecified contact dermatitis due to plants, except food"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf56"
+  },
+  "code": "L25.8 Unspecified contact dermatitis due to other agents"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf57"
+  },
+  "code": "M54.5 Low back pain"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf58"
+  },
+  "code": "L03.115 Cellulitis of right lower limb"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf59"
+  },
+  "code": "L03.116 Cellulitis of left lower limb"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf5a"
+  },
+  "code": "L03.119 Cellulitis of unspecified part of limb"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf5b"
+  },
+  "code": "L03.125 Acute lymphangitis of right lower limb"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf5c"
+  },
+  "code": "L03.126 Acute lymphangitis of left lower limb"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf5d"
+  },
+  "code": "L03.129 Acute lymphangitis of unspecified part of limb"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf5e"
+  },
+  "code": "K64.4 Residual hemorrhoidal skin tag"
+},{
+  "_id": {
+    "$oid": "5f58ed562046b040e410cf5f"
+  },
+  "code": "K64.5 Perianal venous thrombosis"
+}]
